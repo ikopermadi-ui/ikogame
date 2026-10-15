@@ -1,4 +1,4 @@
-# Game Coding: Robo Labirin + Arena Kode
+# YorisGame
 
 Satu halaman, dua game belajar pemrograman untuk anak SD. Halaman awal memilih:
 - **Robo Labirin** (20 level): susun blok perintah, antar robot ke bendera. Dari urutan perintah, perulangan, kondisi, "selama", sampai labirin raksasa.
